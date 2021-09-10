@@ -22,7 +22,7 @@
 <p>
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=welysonsr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 &nbsp;
-  <img height="115em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welysonsr&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welysonsr&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 <h3 align="left">Information</h3>
@@ -35,3 +35,6 @@
 <a href="https://www.linkedin.com/in/welysonrosa" >
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<h5 align="left">Reference</h5>
+<a href="https://github.com/andersonmalves">Anderson Alves</a>
