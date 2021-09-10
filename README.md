@@ -1,4 +1,4 @@
-## Hello my name Welyson Rosa! 😁👋
+## Hello, my name Welyson Rosa! 😁👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=welysonsr&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
