@@ -20,9 +20,9 @@
 </p>
 
 <p>
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=welysonsr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=welysonsr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 &nbsp;
-  <img height="120em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welysonsr&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welysonsr&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 <h3 align="left">Information</h3>
