@@ -11,6 +11,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://img.icons8.com/office/344/react.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/96/000000/vue-js.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/96/000000/css3.png" width="40" height="40"/>
