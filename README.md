@@ -28,7 +28,7 @@
 <h3 align="left">Information</h3>
 
   - 🌱 I’m currently learning Web Development Full-Stack.
-  - 💬 Ask me about JavaScript, NodeJS, Express.js, PHP, MySQL
+  - 💬 Ask me about JavaScript, NodeJS, Express.js, MySQL
   - 📫 How to reach me: welysonsr@gmail.com
   
 <h3 align="left">Connect with me:</h3>
