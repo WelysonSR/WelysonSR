@@ -1,7 +1,5 @@
 ## Hello, my name Welyson Rosa! 😁👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=welysonsr&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -51,9 +49,9 @@
 </p>
 
 <p>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=welysonsr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=welysonsr&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
 &nbsp;
-  <img height="180em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welysonsr&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welysonsr&layout=compact&langs_count=7&theme="/>
 </p>
 
 <h3 align="left">Information</h3>
